@@ -1,4 +1,4 @@
-namespace mtgtour;
+namespace Domain.Tournament;
 
 public enum CreatureTypeEnum {
     Elf,

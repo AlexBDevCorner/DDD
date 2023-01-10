@@ -1,4 +1,6 @@
-﻿namespace mtgtour;
+﻿using System.Collections.Generic;
+
+namespace Domain.Tournament;
 
 public class Creature : Entity
 {

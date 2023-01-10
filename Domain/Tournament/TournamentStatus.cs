@@ -1,4 +1,4 @@
-namespace mtgtour;
+namespace Domain.Tournament;
 
 public class TournamentStatus : ValueObject<TournamentStatus>
 {
